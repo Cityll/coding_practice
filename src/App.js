@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           바보 이지예
+          공부하자! 제발!
         </a>
       </header>
     </div>
